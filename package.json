@@ -1,0 +1,28 @@
+{
+  "name": "nearest-power-of-two",
+  "version": "1.0.0",
+  "description": "get the nearest power of two",
+  "main": "npot.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chrisdickinson/nearest-power-of-two.git"
+  },
+  "keywords": [
+    "npot",
+    "nearest",
+    "power",
+    "two"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us> (http://neversaw.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisdickinson/nearest-power-of-two/issues"
+  },
+  "homepage": "https://github.com/chrisdickinson/nearest-power-of-two",
+  "devDependencies": {
+    "tape": "^2.14.0"
+  }
+}
